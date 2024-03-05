@@ -106,7 +106,7 @@ def configure_comparison(df1, df2):
 
 # Main function
 def main():
-    st.title("Record Linkage System")
+    st.title("Tambua Linkage System")
     st.write("This system helps in linking hdss records to hospital/treatment centre records.")
 
     #  Upload datasets
